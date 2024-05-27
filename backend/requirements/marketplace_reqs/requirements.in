@@ -1,0 +1,14 @@
+django>5
+psycopg2-binary
+celery[redis]
+djangorestframework
+django-filter
+redis
+requests
+confluent-kafka
+django-debug-toolbar
+drf-yasg
+channels>4
+daphne
+channels_redis
+gunicorn
